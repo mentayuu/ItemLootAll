@@ -1,1 +1,17 @@
-#[Escape from Duckov Mod]ItemLootAll
+# Escape from Duckov Mod - ItemLootAll
+
+「Escape from Duckov」用の便利なルート系Modです。
+
+ワンクリックまたはキー操作でアイテムを一括取得できます。
+## 機能
+
+・ 全て拾うボタン がルート画面に追加されます
+
+・ Qキー でも一括でアイテムを拾えます
+
+・ すべて拾った後、自動でルート画面が閉じます
+## 補足
+
+・ BepInEx 不要
+
+・ 他のルート系Modとの併用は動作未確認です
