@@ -1,1 +1,1 @@
-# PickAll
+#[Escape from Duckov Mod]ItemLootAll
