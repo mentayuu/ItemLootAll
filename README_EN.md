@@ -10,6 +10,11 @@ This mod allows you to collect all items at once with a single click or key pres
 - After all items are collected, the **loot screen automatically closes**.  
 - Press **F9** to **switch key configurations (key remapping)**.
 
+## How to Install the Mod
+Extract the downloaded ZIP file.  
+Then, create a **Mods** folder inside the **Duckov_Data** directory of your game,  
+and place the extracted folder inside the **Mods** folder.
+
 ## Notes
 - **BepInEx is not required.**  
 - **Compatibility with other loot-related mods has not been tested.**
